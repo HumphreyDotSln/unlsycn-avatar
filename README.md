@@ -12,5 +12,8 @@ Example:
 
 ## CSS Generator
 
-The CSS generator can generate a CSS file which includes the base64-encoded font with the latest ttf file.
+The CSS generator can generate a CSS file which includes the base64-encoded font with the latest TrueType file.
 
+Usage:
+
+`python .\css-generator.py`
